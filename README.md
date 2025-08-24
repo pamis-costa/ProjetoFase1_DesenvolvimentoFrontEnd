@@ -29,11 +29,17 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ### Telas do Projeto
 
-**Demonstração do Projeto:**
+**tela inicial**
+![Demonstração do projeto](./docs/telainicial.png)
 
-![Demonstração das telas do projeto](./docs/telas.gif)
+**tela sobre**
+![Demonstração do projeto](./docs/telasobre.png)
 
-![Demonstração do projeto em funcionamento](./docs/teste.gif)
+**tela cadastro**
+![Demonstração do projeto](./docs/telacadastro.png)
+
+**tela listas**
+![Demonstração do projeto](./docs/telalista.png)
 
 ## Componentes Desenvolvidos
 
