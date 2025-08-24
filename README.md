@@ -29,18 +29,10 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ### Telas do Projeto
 
-**tela inicial**
+<img align="center" alt="logo javascript" style="max-width: 90%;" src ="src/imagem/telas.gif">
 
-![Demonstração do projeto](src/imagem/telainicial.png)
-
-**tela sobre**
-![Demonstração do projeto](src/imagem/telasobre.png)
-
-**tela cadastro**
-![Demonstração do projeto](src/imagem/telacadastro.png)
-
-**tela listas**
-![Demonstração do projeto](src/imagem/telalista.png)
+### Projeto em funcionamento
+<img align="center" alt="logo javascript" style="max-width: 90%;" src ="src/imagem/teste.gif">
 
 ## Componentes Desenvolvidos
 
